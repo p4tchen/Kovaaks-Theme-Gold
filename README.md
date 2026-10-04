@@ -19,4 +19,4 @@ Your file explorer will open, and now just follow the pictures below
 
 and now just drop the .json that you downloaded into the last folder.
 
-## Marker: This tutorial is from 01/10/2026 if the Kovaaks Developer decides to change the folder that the themes are in or close the support to downloading themes from others, this tutorial doesn't work, and in these both cases I don't update this tutorial.
+# Marker: This tutorial is from 01/10/2026 if the Kovaaks Developers decides to change the folder that the themes are in or close the support to downloading themes from others, this tutorial doesn't work, and in these both cases I don't update this tutorial.
