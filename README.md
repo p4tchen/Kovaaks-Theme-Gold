@@ -1,10 +1,11 @@
 # Kovaaks-Theme-Gold
 
-<img width="1920" height="1080" alt="Gold" src="https://github.com/user-attachments/assets/b0031206-8fe8-4d01-8fd9-622f5ec237c2" />
+<img width="480" height="270" alt="Gold" src="https://github.com/user-attachments/assets/b0031206-8fe8-4d01-8fd9-622f5ec237c2" />
 
 Download the .json file in this repository. Now, go on Steam, open up KovaaK's, and go to the settings icon in the middle right of the screen. You can see the icon in the picture below:
 
 <img width="32" height="32" alt="settingsSteam" src="https://github.com/user-attachments/assets/8c8a1f51-414b-4631-b3a9-49430e0f7333" />
+
 
 Then, this window that you can see in the picture below pops up, and there you go on the left side to Installed Files and click there on browse
 
