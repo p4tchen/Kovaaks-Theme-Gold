@@ -1,6 +1,6 @@
-# Kovaaks-Theme-Gold
+# Kovaaks-Theme-GoldenHour
 
-<img width="640" height="360" alt="Gold" src="https://github.com/user-attachments/assets/b0031206-8fe8-4d01-8fd9-622f5ec237c2" />
+<img width="640" height="360" alt="GoldenHour" src="https://github.com/user-attachments/assets/b0031206-8fe8-4d01-8fd9-622f5ec237c2" />
 
 Download the .json file in this repository. Now, go on Steam, open up KovaaK's Steam page, and go to the settings icon in the middle right of the screen. You can see the icon in the picture below:
 
